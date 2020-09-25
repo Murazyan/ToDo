@@ -1,0 +1,9 @@
+.add_btn:hover, .add_btn:focus, .add_btn:active, .add_btn.active, .open>.dropdown-toggle.add_btn {
+    color: #c30101 !important;
+    background-color: #007bff !important;
+    border-color: #285e8e !important;
+}
+
+.add_btn {
+    color: red !important;
+}
